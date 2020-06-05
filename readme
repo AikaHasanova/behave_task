@@ -1,0 +1,6 @@
+Task 2: Create a tester bot class that goes to the link https://www.facebook.com/.
+ Create a browser in the setUp method.
+ Then test the presence of "Facebook - Log In or Sign Up" in the page title in the test_title method.
+  Then test the presence of "email" input in the test_email_input method.
+  Test the presence of the password entry in the test_password_input.
+Create a test_submit_button method that tests the presence of an input.
